@@ -11,7 +11,7 @@ static int borderpx = 2;
 /*
  * terminal transparency
  */
-static uint8_t term_alpha = 1;
+static uint8_t term_alpha = 0;
 
 /*
  * What program is execed by st depends of these precedence rules:
