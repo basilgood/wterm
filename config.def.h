@@ -5,7 +5,8 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char font[] = "DejaVu:pixelsize=14:antialias=true:hinting=true:hintstyle=hintfull";
+/* static char font[] = "DejaVu:pixelsize=14:antialias=true:hinting=true:hintstyle=hintfull"; */
+static char font[] = "FantasqueSansMono:pixelsize=18:antialias=false:autohint=false";
 static int borderpx = 2;
 
 /*
